@@ -1,10 +1,6 @@
 ﻿using System.Reflection;
 
-Cat cat=new Cat();
-cat.Run((a,b)=>System.Console.WriteLine(b));
-cat.Run((a,b)=>System.Console.WriteLine(b));
-cat.Run((a,b)=>System.Console.WriteLine(b));
-System.Console.WriteLine("feature1");
+
 
 #region Sort
 static void BubbleSort(int[] arr)
