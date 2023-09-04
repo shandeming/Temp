@@ -1,4 +1,7 @@
-﻿
+﻿using System.Reflection;
+
+Cat cat=new Cat();
+cat.Run((a,b)=>System.Console.WriteLine(b));
 
 
 #region Sort
@@ -114,3 +117,12 @@ static int[] GenerateRandomArray(int lenght, int minValue, int maxValue)
     return arr;
 }
 #endregion
+
+public class Cat{
+    public void Say(){
+        System.Console.WriteLine("Meow");
+    }
+    public void Run(Action<int,int> a){
+        a.Invoke(2,3);
+    }
+}

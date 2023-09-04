@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\29628\\Desktop\\Temp\\Temp\\Temp.csproj": {}
+    "c:\\Users\\29628\\Desktop\\Temp\\Temp\\Temp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\29628\\Desktop\\Temp\\Temp\\Temp.csproj": {
+    "c:\\Users\\29628\\Desktop\\Temp\\Temp\\Temp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\29628\\Desktop\\Temp\\Temp\\Temp.csproj",
+        "projectUniqueName": "c:\\Users\\29628\\Desktop\\Temp\\Temp\\Temp.csproj",
         "projectName": "Temp",
-        "projectPath": "C:\\Users\\29628\\Desktop\\Temp\\Temp\\Temp.csproj",
+        "projectPath": "c:\\Users\\29628\\Desktop\\Temp\\Temp\\Temp.csproj",
         "packagesPath": "C:\\Users\\29628\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\29628\\Desktop\\Temp\\Temp\\obj\\",
+        "outputPath": "c:\\Users\\29628\\Desktop\\Temp\\Temp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual studio share\\NuGetPackages"
