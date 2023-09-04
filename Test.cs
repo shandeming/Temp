@@ -1,6 +1,8 @@
 ﻿using System.Reflection;
 
 System.Console.WriteLine(123);
+System.Console.WriteLine("Hello World");
+
 
 #region Sort
 static void BubbleSort(int[] arr)
